@@ -1,0 +1,92 @@
+body {
+    font-family: "Cantora One", sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+  /* HERO SECTION */
+#hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("Images/Nairobi-cbd.avif");
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    color: white;
+}
+.hero-title {
+    background-color: #0D3B66;
+    padding: 5px 15px;
+    margin-bottom: 0;
+}
+.hero-subtitle {
+    background-color: #F95738;
+    padding: 5px 10px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+  /* ACTIVITIES SECTION */
+#activities-section {
+    background: linear-gradient(#EDEEC9, #C2C3A3);
+    margin-top: -20px;
+    
+    
+}
+.activities-title {
+    padding: 20px;
+
+
+}
+
+.activities-body {
+    display: flex;
+    justify-content: space-around;
+
+}
+.activities-img {
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+}
+.activities-dsp {
+    width: 200px;
+    
+}
+
+   /* GUIDE SECTION */
+ #guide-section {
+    display: flex;
+    width: 400px;    
+    margin: 30px auto;
+    padding: 20px;
+    background: #0D3B66;
+    color: white;
+    border-bottom: 6px solid #F95738;
+    border-radius: 10px;
+}  
+ .guide-img {
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 20px;
+
+ }
+ .guide-main {
+    width: 200px;
+    font-style: italic;
+ }
+
+
+
+   /* FOOTER SECTION  */
+ #footer-section {
+    background: #C2C3A3;
+    padding: 5px 5px;
+ }
+ a {
+    color: #F95738;
+ }
+ 
+  
