@@ -32,6 +32,7 @@ body {
 #activities-section {
     background: linear-gradient(#EDEEC9, #C2C3A3);
     margin-top: -20px;
+    max-width: 100%;
     
     
 }
